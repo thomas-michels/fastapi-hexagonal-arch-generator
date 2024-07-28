@@ -1,0 +1,1 @@
+# fastapi-hexagonal-arch-generator
